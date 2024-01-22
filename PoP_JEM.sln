@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoP_JEM", "PoP_JEM\PoP_JEM.csproj", "{89D0567F-3BA1-4DCE-9917-53D38BBB9B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoP_JEMTest", "PoP_JEMTest\PoP_JEMTest.csproj", "{9FF7199A-407B-462F-8B44-BEB43628DE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{89D0567F-3BA1-4DCE-9917-53D38BBB9B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D0567F-3BA1-4DCE-9917-53D38BBB9B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D0567F-3BA1-4DCE-9917-53D38BBB9B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF7199A-407B-462F-8B44-BEB43628DE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF7199A-407B-462F-8B44-BEB43628DE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF7199A-407B-462F-8B44-BEB43628DE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF7199A-407B-462F-8B44-BEB43628DE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
